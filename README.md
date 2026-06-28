@@ -106,20 +106,26 @@ I’m actively improving my understanding of:
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
-
 ---
 
-## 🧠 Problem Solving
+## 🧠 Problem Solving & Achievements
 
-I actively train and compete across premier algorithmic platforms to prepare for contests like ICPC and IICPC Codefest:
+I have actively solved **1000+ DSA and CP problems** across various platforms[cite: 3].
 
-<p align="center">
+*   **Codeforces:** Specialist (1400+ rating)[cite: 3].
+*   **CodeChef:** Peak rating of 1717 (3 Star)[cite: 3].
+*   **LeetCode:** Peak rating of 1745 (Top 10%)[cite: 3].
+*   **AtCoder:** Peak rating of 950[cite: 3].
+*   **JEE Main 2024:** Ranked among the top 0.5% (99.56 percentile) out of 1.5 million candidates[cite: 3].
+*   **JEE Advanced 2024:** Ranked among the top 4% of shortlisted candidates[cite: 3].
+*   **Analytics Club (IIT Guwahati):** Awarded Certificate of Excellence in Time Series Analysis[cite: 3].
+
+<p align="left">
   <a href="https://codeforces.com/profile/tridev06052009" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   </a>
-  <img src="https://img.shields.io/badge/CodeChef-Algorithmic%20Platform-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef" />
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/AtCoder-Contests-222222?style=for-the-badge&logo=atcoder" alt="AtCoder" />
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
 </p>
 
 ---
