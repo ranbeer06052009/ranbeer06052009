@@ -1,45 +1,64 @@
 <div align="center">
 
-#  Hi, I'm Ranbeer Singh
+# Hi, I'm Ranbeer Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=AI/ML+Researcher;Data+Scientist;Multimodal+Architectures;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher;Data+Scientist;Competitive+Programmer;Mining+Engineering+%40+IIT+KGP" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## What I Do
+## 🚀 What I Do
 
-I’m an **AI/ML Researcher** and **Developer** focused on building **intelligent, scalable systems**.
+I’m an **AI/ML Researcher**, **Data Scientist**, and **Software Developer** focused on building **intelligent, scalable systems**. I am currently pursuing my studies in Mining Engineering at the **Indian Institute of Technology, Kharagpur (IIT KGP)**, and completing a research internship at **IIM Ranchi**.
 
-I work across:
-- multimodal emotion recognition & fusion techniques
-- time series forecasting & predictive analytics
-- backend systems & deep learning architectures
+I care deeply about **solving complex problems**, **optimizing real-time performance**, and **creating robust AI models**. Beyond code, I hold a strong academic interest in Sanskrit literature and traditional shlokas.
 
-I care deeply about **solving complex problems**, **optimizing real-time performance**, and **creating robust AI models**.
+**I actively work across:**
+- 🧠 **AI & Research:** Multimodal emotion recognition & fusion techniques (e.g., co-developing **DRCFNet** with ViTs and predictive entropy governance).
+- ⚡ **High-Performance Backend:** Algorithmic trading simulators (HFT matching engines in Go), real-time streaming, and time series forecasting.
+- 🏗️ **Systems & DevOps:** Docker-based RCE sandboxes, CI/CD pipelines (Vercel/Render), and self-hosted n8n automations.
 
 ---
 
-##  Core Areas
+## ⚙️ Core Areas
 
-| 💻 Software & Tools | 🤖 AI & ML | ⚙️ Data & Systems |
+| 💻 Software & Tools | 🤖 AI & ML | 📊 Data & Systems |
 |--------------|---------|-----------|
-| Python, C++, Java, Go | Multimodal Architectures | Pathway & Real-time Streaming |
-| Docker & Git | Deep Learning & ViT | Time Series Analysis |
+| Python, C++, Go, Java | Multimodal Architectures | Pathway & Real-time Streaming |
+| Docker, Git, n8n | Deep Learning & ViT | Time Series Analysis & Forecasting |
 
 ---
 
-## Currently Growing In
+## 🌱 Currently Growing In
 
 I’m actively improving my understanding of:
 - **Multimodal AI Architectures (ImageBind, DRCFNet)**
 - **Generative AI & Agentic Systems**
 - **Real-time Data Streaming & Analytics**
+- **Advanced Algorithmic Design for ICPC/Codefest**
 
 ---
 
-##  Tech Stack
+## 🏆 Featured Projects & Contributions
+
+### Language Breakdown & Contribution %
+> 🔵 **Go:** 35% | 🟡 **Python:** 30% | 🟣 **C++:** 20% | 🟢 **JavaScript/React:** 15% 
+> 
+> `█████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+
+* **[DRCFNet Research]** `Python` `PyTorch` `ViTs`
+    * *Contribution:* Engineered a zero-latency predictive entropy governance layer and optimized multimodal fusion techniques for real-time emotion recognition.
+* **[Algorithmic-Trading-Simulator]** `Go` `HFT` 
+    * *Contribution:* Developed the core logic for the high-frequency order matching engine for ultra-low latency execution.
+* **[Collaborative-Code-Editor]** `React` `WebSockets`
+    * *Contribution:* Architected a custom Operational Transformation algorithm achieving sub-50ms state synchronization.
+* **[Multi-Lang-RCE-Sandbox]** `Docker` `System Design`
+    * *Contribution:* Built an isolated sandbox to securely execute untrusted code in multiple languages in under two seconds.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 <p>
@@ -47,9 +66,8 @@ I’m actively improving my understanding of:
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
----
 
 ### Frameworks & Libraries
 <p>
@@ -57,39 +75,56 @@ I’m actively improving my understanding of:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
-
 - TensorFlow & PyTorch  
 - Pandas & NumPy  
 - OpenCV & Keras  
 - XGBoost & LightGBM
-
----
 
 ### Generative AI & Tools
 <p>
   <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pathway-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=ffffff" />
 </p>
-
----
 
 ### DevOps & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=ffffff" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
-##  GitHub Activity
+## 🧠 Problem Solving
+
+I actively train and compete across premier algorithmic platforms to prepare for contests like ICPC and IICPC Codefest:
+
+<p align="center">
+  <a href="https://codeforces.com/profile/tridev06052009" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  </a>
+  <img src="https://img.shields.io/badge/CodeChef-Algorithmic%20Platform-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/AtCoder-Contests-222222?style=for-the-badge&logo=atcoder" alt="AtCoder" />
+</p>
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranbeer06052009&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
@@ -97,16 +132,6 @@ I’m actively improving my understanding of:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranbeer06052009&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Problem Solving
-
-<p align="center">
-  <a href="https://codeforces.com/profile/tridev06052009" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces" alt="Codeforces" />
-  </a>
 </p>
 
 ---
